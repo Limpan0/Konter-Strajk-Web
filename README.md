@@ -1,6 +1,7 @@
 # KonterStrajk
-https://konterstrajk.netlify.app/
-The game was made for a custom console using electron but i also made it available to play online on the web. There for the controlls for PC are a bit weird. 
+## PLAY THE GAME HERE: https://konterstrajk.netlify.app/
+
+The game was actually made for a custom console using electron but i also made it available to play online on the web. There for the controlls for PC are a bit weird. 
 
 This project was part of a course in my program that I took at the university.
 
